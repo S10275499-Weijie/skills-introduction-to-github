@@ -31,7 +31,7 @@ This project was built Mobile-First to ensure accessibility for users on the go.
 ### Core Stack
 * **HTML5:** Semantic structure for accessibility.
 * **CSS3:** Custom styling, Flexbox/Grid for responsive layout.
-* **JavaScript (ES6+):** DOM manipulation and logic.
+* **JavaScript:** DOM manipulation and logic.
 
 ### Frameworks & Libraries
 * **FontAwesome:** Used for scalable vector icons (Nav bars, action buttons).
