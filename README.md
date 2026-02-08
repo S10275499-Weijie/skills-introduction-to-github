@@ -1,4 +1,4 @@
-# HawkerHub 🍲
+# 🍲 HawkerHub
 
 > A responsive web application helping patrons to order food, Vendors to manage stalls, and NEA Officers to track hygiene standards.
 
