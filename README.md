@@ -3,7 +3,7 @@
 > A responsive web application helping patrons to order food, Vendors to manage stalls, and NEA Officers to track hygiene standards.
 
 ## 🔗 Live Deployment
-**View the live project here:** [INSERT YOUR GITHUB PAGES LINK HERE e.g., https://username.github.io/SgHawkerHub]
+**View the live project here:** https://github.com/TariqAkbar/fed_assignment
 
 ---
 
