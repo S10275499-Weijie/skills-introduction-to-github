@@ -1,9 +1,6 @@
-# SgHawkerHub 🍲
+# HawkerHub 🍲
 
-> A responsive web application helping patrons find hawker stalls and allowing NEA officers to log hygiene inspections.
-
-![Responsive Design](https://img.shields.io/badge/Design-Responsive-blue)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+> A responsive web application helping patrons to order food, Vendors to manage stalls, and NEA Officers to track hygiene standards.
 
 ## 🔗 Live Deployment
 **View the live project here:** [INSERT YOUR GITHUB PAGES LINK HERE e.g., https://username.github.io/SgHawkerHub]
@@ -11,11 +8,10 @@
 ---
 
 ## 📖 Project Overview
-**SgHawkerHub** is designed to streamline the hawker centre experience in Singapore. It serves three distinct user groups:
-1.  **Patrons:** To discover food, manage orders, and view hygiene grades.
-2.  **Stall Owners (Vendors):** To manage menus, track sales, and handle orders.
-3.  **NEA Officers:** To conduct and log hygiene inspections efficiently.
-
+**HawkerHub** is designed to streamline the hawker centre experience in Singapore. It serves three distinct user groups:
+1.  **Patrons:** To discover food options with SmartFood, track sustainability via the Eco-Tracker, and manage orders.
+2.  **Stall Owners (Vendors):** To manage menus, track real-time sales and rental bills, and process live orders.
+3.  **NEA Officers:** To monitor compliance trends, schedule inspections, and log hygiene grades efficiently.
 This project was built Mobile-First to ensure accessibility for users on the go.
 
 ---
@@ -44,8 +40,7 @@ This project was built Mobile-First to ensure accessibility for users on the go.
 * **Firebase:** *[Used by Thaariq]* For user authentication and real-time database storage.
 
 ### APIs
-* **[INSERT API NAME HERE]:** Used for [e.g., retrieving live weather data].
-* **WorldTimeAPI:** *[Used by Jonathan]* To verify order timestamps and table availability.
+* **[INSERT API NAME HERE]:** 
 
 ---
 
@@ -59,24 +54,21 @@ To test the application, please use the following credentials for the different 
 | **NEA Officer** | `officer@test.com` | `password123` |
 
 ### Testing Protocol
-* [cite_start]**Responsiveness:** Tested on iPhone X, iPad Pro, and Desktop resolutions using Chrome DevTools[cite: 836].
-* [cite_start]**Validation:** HTML and CSS validated via W3C Validator[cite: 732].
-* **Lighthouse:** Audited for Performance and Accessibility.
+* **Responsiveness:** Tested on iPhone X, iPad Pro, and Desktop resolutions using Chrome DevTools.
+* **Validation:** HTML and CSS validated via W3C Validator.
 
 ---
 
 ## 🤖 AI Assistance Declaration
 Generative AI (ChatGPT/Gemini) was used as an assistive tool for debugging and code optimization.
 
-* **Query 1:** *[Insert screenshot of query here, e.g., "How to sort JSON array by date in JS"]*
-    * *Application:* Used in the Order History page to sort past orders.
-* **Query 2:** *[Insert screenshot or description]*
-    * *Application:* Used to debug the Firebase connection issue on the Login page.
+* **Application:** 
+    * During the development process, we utilized generative AI as a strategic collaborator to enhance both the technical and aesthetic aspects of our website. The AI provided critical feedback and guidance on UI/UX principles, allowing us to transition static elements into highly interactive and functional features that align with our visual standards. Furthermore, we leveraged AI for targeted debugging and code optimization, providing a necessary bridge when we encountered complex implementation gaps or persistent technical roadblocks.* 
 
 ---
 
 ## 📂 Deployment
-1.  Clone the repository: `git clone https://github.com/[username]/SgHawkerHub.git`
+1.  Clone the repository: `git clone https://github.com/TariqAkbar/fed_assignment.git`
 2.  Navigate to the folder.
 3.  Open `index.html` in your browser (or use Live Server in VS Code).
 4.  **Note:** An active internet connection is required for Firebase and API features.
