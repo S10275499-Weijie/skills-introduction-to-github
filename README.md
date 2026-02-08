@@ -81,6 +81,4 @@ Generative AI (ChatGPT/Gemini) was used as an assistive tool for debugging and c
 * **Reference Logic:** [insert]
 
 ## 👍 Acknowledgement
-* **Images:** 
-* **Icons:** FontAwesome.
-* **Reference Logic:** [insert]
+* **[insert]** 
