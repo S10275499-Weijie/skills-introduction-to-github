@@ -22,7 +22,7 @@ This project was built Mobile-First to ensure accessibility for users on the go.
 | **10272535K** | **Jonathan Choo** | • **Ordering System:** Menu Page, Cart & Checkout flow, Order History.<br>• **UI/UX:** Dark Mode, Global NavBar, Overall UI consistency.<br>• **API:** Time API integration for Orders & SmartTableFinder. |
 | **S10272790E** | **Koh Jun Wen** | • **Vendor Administration:** Vendor Profile, Rental Bill Management.<br>• **Menu Control:** Add/Edit/Remove Menu items.<br>• **Engagement:** Customer Feedback viewing, Eco-friendly initiatives page. |
 | **S10272093E** | **Darren Yap** | • **NEA Officer Features:** Officer Dashboard, Inspection Logging Page, Food Safety Protocols.<br>• **Finder Tools:** Live Table Finder, Smart Food Finder. |
-| **S10275499K** | **Chop Wei Jie** | • **Vendor Dashboard:** Daily Sales Calculation, Goal Tracker, Sales Trend (7-Day Chart).<br>• **Workflow:** Order Workflow Management, Vendor Feedback Reply.<br>• **Auth:** Multi-role Authentication Page (Login/Sign Up). |
+| **S10275499K** | **Chop Wei Jie** | • **Vendor Dashboard:** Daily Sales Calculation, Goal Tracker, Sales Trend (7-Day Chart).<br>• **Workflow:** Order Workflow Management, Customer Feedback.<br>• **Auth:** Multi-role Authentication Page (Login/Sign Up). |
 | **S10275457K** | **Thaariq Akbar** | • **Core Infrastructure:** Firebase Setup & Database Seeding (Hawker/Stall Data).<br>• **User Mgmt:** Login/Sign-up Logic, Edit Profile (Account Page).<br>• **Landing:** Home Page implementation. |
 
 ---
