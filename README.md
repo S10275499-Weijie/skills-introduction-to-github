@@ -38,6 +38,7 @@ This project was built Mobile-First to ensure accessibility for users on the go.
 * **Google Fonts:** Used to ensure typography consistency across devices.
 * **Chart.js:** To render the 7-Day Sales Trend visualization for Vendors.
 * **Firebase:** For user authentication and real-time database storage.
+* **Lucide:** To render lightweight SVG icons
 
 ### APIs
 * **[INSERT API NAME HERE]:** 
