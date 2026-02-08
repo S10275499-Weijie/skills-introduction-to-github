@@ -12,7 +12,6 @@
 1.  **Patrons:** To discover food options with SmartFood, track sustainability via the Eco-Tracker, and manage orders.
 2.  **Stall Owners (Vendors):** To manage menus, track real-time sales and rental bills, and process live orders.
 3.  **NEA Officers:** To monitor compliance trends, schedule inspections, and log hygiene grades efficiently.
-This project was built Mobile-First to ensure accessibility for users on the go.
 
 ---
 
