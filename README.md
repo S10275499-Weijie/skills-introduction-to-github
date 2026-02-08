@@ -36,8 +36,8 @@ This project was built Mobile-First to ensure accessibility for users on the go.
 ### Frameworks & Libraries
 * **FontAwesome:** Used for scalable vector icons (Nav bars, action buttons).
 * **Google Fonts:** Used to ensure typography consistency across devices.
-* **Chart.js:** *[Used by Wei Jie]* To render the 7-Day Sales Trend visualization for Vendors.
-* **Firebase:** *[Used by Thaariq]* For user authentication and real-time database storage.
+* **Chart.js:** To render the 7-Day Sales Trend visualization for Vendors.
+* **Firebase:** For user authentication and real-time database storage.
 
 ### APIs
 * **[INSERT API NAME HERE]:** 
@@ -62,20 +62,24 @@ To test the application, please use the following credentials for the different 
 ## 🤖 AI Assistance Declaration
 Generative AI (ChatGPT/Gemini) was used as an assistive tool for debugging and code optimization.
 
-* **Application:** 
-    * During the development process, we utilized generative AI as a strategic collaborator to enhance both the technical and aesthetic aspects of our website. The AI provided critical feedback and guidance on UI/UX principles, allowing us to transition static elements into highly interactive and functional features that align with our visual standards. Furthermore, we leveraged AI for targeted debugging and code optimization, providing a necessary bridge when we encountered complex implementation gaps or persistent technical roadblocks.* 
+* **Application: During the development process, we utilized generative AI as a strategic collaborator to enhance both the technical and aesthetic aspects of our website. The AI provided critical feedback and guidance on UI/UX principles, allowing us to transition static elements into highly interactive and functional features that align with our visual standards. Furthermore, we leveraged AI for targeted debugging and code optimization, providing a necessary bridge when we encountered complex implementation gaps or persistent technical roadblocks.** 
 
 ---
 
 ## 📂 Deployment
 1.  Clone the repository: `git clone https://github.com/TariqAkbar/fed_assignment.git`
 2.  Navigate to the folder.
-3.  Open `index.html` in your browser (or use Live Server in VS Code).
+3.  Open `home.html` in your browser (or use Live Server in VS Code).
 4.  **Note:** An active internet connection is required for Firebase and API features.
 
 ---
 
 ## © Credits
-* **Images:** Unsplash, Pexels.
+* **Images:** 
 * **Icons:** FontAwesome.
-* **Reference Logic:** MDN Web Docs for LocalStorage implementation.
+* **Reference Logic:** [insert]
+
+## 👍 Acknowledgement
+* **Images:** 
+* **Icons:** FontAwesome.
+* **Reference Logic:** [insert]
